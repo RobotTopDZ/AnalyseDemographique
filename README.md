@@ -57,7 +57,7 @@ Then open your web browser and navigate to http://127.0.0.1:8050/
 ![Population Analysis](screenshots/graph1.PNG)
 *Population distribution by age groups showing both raw and smoothed data*
 
-![C(x)-Kx Analysis](screenshots/graph2.PNG)
+![C(x)-Kx Analysis](screenshots/graph 2.PNG)
 *C(x)-Kx analysis demonstrating the smoothing technique's effect*
 
 ### Analysis Results
